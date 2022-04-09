@@ -1,0 +1,8 @@
+{
+  "description": "Instead of displaying a notification, automatically focus a window when it is \"ready\".",
+  "name": "\"[Application] is ready\" Remover",
+  "shell-version": ["42"],
+  "url": "https://github.com/tkw1536/application-is-ready-remover",
+  "uuid": "application-is-ready-remover@tkw01536.de",
+  "version": 1
+}
